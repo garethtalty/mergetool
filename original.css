@@ -69,7 +69,7 @@ h3 {text-transform:uppercase;}
 .navigation{
 	font-size:30px;
 	font-weight:700;
-	text-transform:uppercase;
+	text-transform:lowerppercase;
 	color:white;
 	list-style: none;
 	margin: 0;
